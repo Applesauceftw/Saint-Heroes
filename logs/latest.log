@@ -1,0 +1,58 @@
+[00:52:49] [Server thread/INFO]: Starting minecraft server version 1.7.2
+[00:52:49] [Server thread/INFO]: Loading properties
+[00:52:49] [Server thread/INFO]: Default game type: SURVIVAL
+[00:52:49] [Server thread/INFO]: Generating keypair
+[00:52:49] [Server thread/INFO]: Starting Minecraft server on 192.168.0.113:25565
+[00:52:49] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.2-R0.2-b2974jnks (MC: 1.7.2) (Implementing API version 1.7.2-R0.2)
+[00:52:49] [Server thread/INFO]: [PermissionsEx] sql backend registered!
+[00:52:49] [Server thread/INFO]: [PermissionsEx] file backend registered!
+[00:52:49] [Server thread/INFO]: [Vault] Loading Vault v1.2.31-b411
+[00:52:49] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.20.4
+[00:52:49] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[00:52:49] [Server thread/INFO]: [Heroes] Loading Heroes v1.5.5.1-b20
+[00:52:49] [Server thread/INFO]: [Vault] Enabling Vault v1.2.31-b411
+[00:52:49] [Server thread/INFO]: [Vault] [Vault][Permission] PermissionsEx found: Waiting
+[00:52:49] [Server thread/INFO]: [Vault] [Vault][Permission] SuperPermissions loaded as backup permission system.
+[00:52:49] [Server thread/INFO]: [Vault] [Vault][Chat] PermissionsEx found: Waiting
+[00:52:50] [Server thread/INFO]: [Vault] [Vault] Enabled Version 1.2.31-b411
+[00:52:50] [Server thread/INFO]: Preparing level "world"
+[00:52:50] [Server thread/INFO]: Preparing start region for level 0 (Seed: 5540571787400857384)
+[00:52:50] [Thread-7/INFO]: ----- Bukkit Auto Updater -----
+[00:52:50] [Thread-7/INFO]: It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+[00:52:50] [Thread-7/INFO]: If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+[00:52:50] [Thread-7/INFO]: With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+[00:52:50] [Thread-7/INFO]: If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+[00:52:50] [Thread-7/INFO]: ----- ------------------- -----
+[00:52:50] [Server thread/INFO]: Preparing start region for level 1 (Seed: 5540571787400857384)
+[00:52:51] [Server thread/INFO]: Preparing start region for level 2 (Seed: 5540571787400857384)
+[00:52:51] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.20.4
+[00:52:51] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[00:52:51] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
+[00:52:51] [Server thread/INFO]: [Heroes] Enabling Heroes v1.5.5.1-b20
+[00:52:51] [Server thread/INFO]: [Heroes] You are running Heroes on MC v1.7.2
+[00:52:51] [Server thread/INFO]: [Heroes] The detected server mod is BUKKIT. Heroes will use BUKKIT compatibility!
+[00:52:51] [Server thread/INFO]: [Heroes] Minimum PvP Level is set to: 1
+[00:52:52] [Server thread/WARN]: [Heroes] Citizen has no permitted-armor section
+[00:52:52] [Server thread/INFO]: [Heroes] version 1.5.5.1-b20 is enabled!
+[00:52:52] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:52:52] [Server thread/INFO]: Done (2.330s)! For help, type "help" or "?"
+[00:52:53] [pool-3-thread-2/INFO]: [Vault] Checking for Updates:
+[00:52:53] [pool-3-thread-2/INFO]: [Vault] No new version available
+[00:53:01] [Server thread/INFO]: CONSOLE: Stopping the server..[m
+[00:53:01] [Server thread/INFO]: Stopping server
+[00:53:01] [Server thread/INFO]: [Heroes] Disabling Heroes v1.5.5.1-b20
+[00:53:01] [Server thread/INFO]: [Heroes]  version 1.5.5.1-b20 is disabled!
+[00:53:01] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.20.4
+[00:53:01] [Server thread/INFO]: [Vault][Permission] PermissionsEx un-hooked.
+[00:53:01] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat un-hooked.
+[00:53:01] [Server thread/INFO]: Permissions file successfully reloaded
+[00:53:01] [Server thread/INFO]: [Vault] Disabling Vault v1.2.31-b411
+[00:53:01] [Server thread/INFO]: Saving players
+[00:53:01] [Server thread/INFO]: Saving worlds
+[00:53:01] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[00:53:02] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[00:53:02] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[00:53:02] [Thread-4/INFO]: Stopping server
+[00:53:02] [Thread-4/INFO]: Saving players
+[00:53:02] [Thread-4/INFO]: Saving worlds
+[00:53:02] [Thread-4/INFO]: Saving chunks for level 'world'/Overworld
