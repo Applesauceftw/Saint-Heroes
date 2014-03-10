@@ -21,32 +21,32 @@ farming:
 killing:
     Chicken: 1
     Cow: 1
-    Creeper: 23
+    Creeper: 50
     Ghast: 50
     Giant: 300
     Pig: 1
-    PigZombie: 20
+    PigZombie: 30
     Sheep: 1
-    Skeleton: 22
+    Skeleton: 25
     Ozelot: 1
-    Slime: 15
+    Slime: 20
     Spider: 18
     Squid: 1
     Zombie: 15
     Wolf: 6
-    CaveSpider: 10
+    CaveSpider: 20
     Enderman: 50
-    EnderDragon: 500
+    EnderDragon: 2000
     Silverfish: 8
     Villager: 1
-    Blaze: 25
+    Blaze: 50
     MushroomCow: 1
     LavaSlime: 12
     SnowMan: 5
     VillagerGolem: 25
-    Player: 31
+    Player: 100
     Bat: 6
-    WitherBoss: 300
+    WitherBoss: 750
     Witch: 26
 mining:
     coal: 5

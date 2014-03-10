@@ -1,7 +1,7 @@
 creature-health:
-    Chicken: 4
+    Chicken: 1
     Cow: 10
-    Creeper: 20
+    Creeper: 5
     Ghast: 10
     Giant: 100
     Pig: 10
@@ -29,22 +29,22 @@ creature-health:
     Witch: 26
     EntityHorse: 20
 creature-damage:
-    Creeper: 49
+    Creeper: 1000
     Giant: 17
     Zombie: 4
-    PigZombie: 5
-    EnderDragon: 10
+    PigZombie: 10
+    EnderDragon: 30
     Wolf: 2
     Enderman: 7
     Skeleton: 4
     Spider: 2
-    CaveSpider: 2
-    SnowMan: 0
+    CaveSpider: 3
+    SnowMan: 1
     VillagerGolem: 20
     Ozelot: 3
     Slime: 4
     LavaSlime: 6
-    WitherBoss: 5
+    WitherBoss: 15
 item-damage:
     Air: 2
 environmental-damage:
@@ -53,8 +53,8 @@ environmental-damage:
     FALL: .05 #Per block above 3
     LAVA: .2
     FIRE: .2
-    FIRE_TICK: 1 #flat amount per tick
-    POISON: 1 #flat amount per tick
+    FIRE_TICK: 3 #flat amount per tick
+    POISON: 5 #flat amount per tick
     SUFFOCATION: .05
     DROWNING: .1
     STARVATION: .05
