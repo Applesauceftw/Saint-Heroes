@@ -1,0 +1,21 @@
+Main:
+  No Death Message: false
+Mobs:
+  Spider: Spider
+  Zombie: Zombie
+  Skeleton: Skeleton
+  MagmaCube: Magma Cube
+  Silverfish: Silverfish
+  Wolf: Wolf
+  Slime: Slime
+  Pigmen: Zombie Pigmen
+  Enderman: Enderman
+  Giant: Giant
+  Ghast: Ghast
+  CaveSpider: Cave Spider
+  Blaze: Blaze
+  IronGolem: Iron Golem
+  SnowGolem: Snow Golem
+  EnderDragon: Ender Dragon
+  Wither: Wither
+  Witch: Witch

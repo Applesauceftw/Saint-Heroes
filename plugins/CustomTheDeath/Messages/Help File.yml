@@ -1,0 +1,55 @@
+#
+# To customize the Death Message, add your messages in the text file.
+# One message per line.
+#
+#
+#                                             TEXT FILES OF MESSAGES
+#
+#  Name of file (.txt)  |                Description              | Which sentence replaces this file? (Examples)
+#
+# Fireballed            | Death by a fireball Ghast               | "Player was fireballed by Ghast"
+# Burned                | Death due to fire                       | "Player burned to death" and "Player went up in flames"
+# Fall                  | Death because of a fall                 | "Player hit the ground too hard"
+# Blew up               | Death because of an explosion           | "Player blew up"
+# Lava 					| Death because of the lava 	          | "Player tried to swim in lava"
+# Magic 				| Death because of potion or magic        | "Player was killed by magic"
+# Slain                 | Death because of a mob		          | "Player was slain by Mob"
+# Killed			    | "Normal" death  (PvP) 		          | "Player was killed by Player2"
+# Shot          	    | Death because of arrows 		          | "Player was shot by arrow" and "Player was shot by Player2"
+# Died 				    | Death for no reason 			          | "Player died"
+# Drowned 				| Death by not having oxygen 	   		  | "Player drowned" or "Player took long walk off a short pier"
+# Pricked 				| Death because of a cactus 	   		  | "Player was pricked to death" or "Player hugged a cactus, but the cactus hugged back"
+# Void 					| Death by being passed under the Bedrock | "Player fell out the world"
+# Starved               | Death of Hunger                         | "Player starved to death"
+# Suffocated 		    | Death smothered in a wall 			  | "Player suffocated in a wall"
+# Suicide 				| Death by suicide 						  | "Player suicide"
+# Wither                | Death by the Wither                     | "Player withered amay"
+# Falling Anvil         | Death by a falling anvil				  | "Player was squashed by a falling anvil"
+# Falling Block         | Death by a falling block                | "Player was squashed by a falling block"
+# Snowball              | Death by SnowBall (very very long death)| "Player was pummelled by Player2"
+#
+#
+#                               ---------------------------------------------
+#
+#                                  VARIABLES AVAILABLE TO BE IN THE MESSAGES
+#
+# %name%   : Name of player
+# %killer% : Name of the killer (Only if there's a killer)
+#
+# "&f" = WHITE
+# "&e" = YELLOW
+# "&d" = PURPLE
+# "&c" = RED
+# "&b" = AQUA										Respect the case of color codes
+# "&a" = GREEN
+# "&9" = BLUE                              Example: "&6%name% &ca was killed by &6%killer%
+# "&8" = DARK GREY
+# "&7" = GRAY
+# "&6" = OR
+# "&5" = DARK PURPLE
+# "&4" = DARK RED
+# "&3" = DARK AQUA
+# "&2" = DARK GREEN
+# "&1" = DARK BLUE
+# "&0" = BLACK
+
