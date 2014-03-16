@@ -1,0 +1,44 @@
+name: Human
+default: true
+parents:
+    strong: []
+    weak: []
+primary: true
+secondary: false
+description: A default human
+permitted-armor:
+- LEATHER
+permitted-weapon:
+- WOOD
+- WOOD_PICKAXE
+item-damage:
+item-damage-level:
+projectile-damage:
+projectile-damage-level:
+permitted-skills:
+    Mark:
+        level: 5
+        mana: 5
+        reagent: BED
+        reagent-cost: 1
+    Recall:
+        level: 5
+        mana: 40
+        cooldown: 60000
+        health-cost: 10
+        delay: 5000
+experience-sources:
+- KILLING
+- EXTERNAL
+- MINING
+expmodifier: .5
+base-max-health: 20
+max-health-per-level: 0
+base-max-mana: 60
+max-mana-per-level: .1
+mana-regen: 1
+mana-regen-per-level: .01
+expLoss:
+wildcard-permission: true
+tier: 0
+recipes: [ default ]
