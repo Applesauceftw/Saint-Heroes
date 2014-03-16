@@ -3,10 +3,10 @@ groups:
         default: true
         permissions:
           - modifyworld.*
-		  - heroes.reset
-		  - heroes.bind
-		  - heroes.classes.*
-		  - heroes.scroll
+          - heroes.reset
+          - heroes.bind
+          - heroes.classes.*
+          - heroes.scroll
     admin:
 	    default: false
 		permissions:
