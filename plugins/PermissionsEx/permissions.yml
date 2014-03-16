@@ -8,25 +8,25 @@ groups:
           - heroes.classes.*
           - heroes.scroll
     admin:
-	    default: false
-		permissions:
-		  - permissions.*
-		  - bukkit.*
-		  - vault.*
-		  - heroes.classes.*
-		  - heroes.admin.exp
-		  - heroes.reset
-		  - heroes.admin.level
-		  - heroes.admin.class
-		  - heroes.admin.heal
-		  - heroes.admin.reload
-		  - heroes.admin.health
-		  - heroes.admin.saveall
-		  - heroes.scroll
-		  - heroes.bind
+        default: false
+        permissions:
+          - permissions.*
+          - bukkit.*
+          - vault.*
+          - heroes.classes.*
+          - heroes.admin.exp
+          - heroes.reset
+          - heroes.admin.level
+          - heroes.admin.class
+          - heroes.admin.heal
+          - heroes.admin.reload
+          - heroes.admin.health
+          - heroes.admin.saveall
+          - heroes.scroll
+          - heroes.bind
 users:
     SilentCartogrpah:
-	    group:
-		  - admin
-		permissions:
-		worlds:
+        group:
+          - admin
+        permissions:
+        worlds:
