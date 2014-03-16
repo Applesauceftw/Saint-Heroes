@@ -1,66 +1,71 @@
-[15:44:16] [Server thread/INFO]: Starting minecraft server version 1.7.2
-[15:44:16] [Server thread/INFO]: Loading properties
-[15:44:16] [Server thread/INFO]: Default game type: SURVIVAL
-[15:44:16] [Server thread/INFO]: Generating keypair
-[15:44:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:44:17] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.2-R0.2-b2974jnks (MC: 1.7.2) (Implementing API version 1.7.2-R0.2)
-[15:44:17] [Server thread/INFO]: [PermissionsEx] sql backend registered!
-[15:44:17] [Server thread/INFO]: [PermissionsEx] file backend registered!
-[15:44:17] [Server thread/INFO]: [Vault] Loading Vault v1.2.31-b411
-[15:44:17] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.20.4
-[15:44:17] [Server thread/INFO]: [PermissionsEx] Initializing file backend
-[15:44:17] [Server thread/INFO]: Permissions file successfully reloaded
-[15:44:17] [Server thread/INFO]: [Heroes] Loading Heroes v1.5.5.1-b20
-[15:44:17] [Server thread/INFO]: [Vault] Enabling Vault v1.2.31-b411
-[15:44:17] [Server thread/INFO]: [Vault] [Vault][Permission] PermissionsEx found: Waiting
-[15:44:17] [Server thread/INFO]: [Vault] [Vault][Permission] SuperPermissions loaded as backup permission system.
-[15:44:17] [Server thread/INFO]: [Vault] [Vault][Chat] PermissionsEx found: Waiting
-[15:44:17] [Server thread/INFO]: [Vault] [Vault] Enabled Version 1.2.31-b411
-[15:44:17] [Server thread/INFO]: Preparing level "world"
-[15:44:17] [Server thread/INFO]: Preparing start region for level 0 (Seed: 5540571787400857384)
-[15:44:18] [Thread-7/INFO]: ----- Bukkit Auto Updater -----
-[15:44:18] [Thread-7/INFO]: It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
-[15:44:18] [Thread-7/INFO]: If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
-[15:44:18] [Thread-7/INFO]: With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
-[15:44:18] [Thread-7/INFO]: If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
-[15:44:18] [Thread-7/INFO]: ----- ------------------- -----
-[15:44:18] [Server thread/INFO]: Preparing start region for level 1 (Seed: 5540571787400857384)
-[15:44:18] [Server thread/INFO]: Preparing start region for level 2 (Seed: 5540571787400857384)
-[15:44:19] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.20.4
-[15:44:19] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
-[15:44:19] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
-[15:44:19] [Server thread/INFO]: [Heroes] Enabling Heroes v1.5.5.1-b20
-[15:44:19] [Server thread/INFO]: [Heroes] You are running Heroes on MC v1.7.2
-[15:44:19] [Server thread/INFO]: [Heroes] The detected server mod is BUKKIT. Heroes will use BUKKIT compatibility!
-[15:44:19] [Server thread/INFO]: [Heroes] Minimum PvP Level is set to: 1
-[15:44:19] [Server thread/WARN]: [Heroes] Citizen has no permitted-armor section
-[15:44:19] [Server thread/INFO]: [Heroes] version 1.5.5.1-b20 is enabled!
-[15:44:19] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[15:44:19] [Server thread/INFO]: Done (2.297s)! For help, type "help" or "?"
-[15:44:20] [pool-3-thread-2/INFO]: [Vault] Checking for Updates:
-[15:44:20] [pool-3-thread-2/INFO]: [Vault] No new version available
-[15:45:30] [User Authenticator #1/INFO]: UUID of player SilentCartograph is 87fc4be1ef8f43a0b11fdceb5a43f0e6
-[15:45:30] [Server thread/INFO]: SilentCartograph[/127.0.0.1:50836] logged in with entity id 44 at ([world] -305.5, 83.0, 24.5)
-[15:45:30] [Server thread/INFO]: [Heroes] Created hero: SilentCartograph
-[15:45:30] [Server thread/INFO]: [Heroes] Saved hero: SilentCartograph
-[15:46:49] [Server thread/INFO]: SilentCartograph issued server command: /heroes
-[15:50:33] [Server thread/INFO]: SilentCartograph issued server command: /op SilentCartograph
-[15:52:01] [Server thread/INFO]: SilentCartograph lost connection: Disconnected
-[15:52:01] [Server thread/INFO]: [Heroes] Saved hero: SilentCartograph
-[15:52:01] [Server thread/INFO]: SilentCartograph left the game.
-[15:52:05] [Server thread/INFO]: CONSOLE: Stopping the server..[m
-[15:52:05] [Server thread/INFO]: Stopping server
-[15:52:05] [Server thread/INFO]: [Heroes] Disabling Heroes v1.5.5.1-b20
-[15:52:05] [Server thread/INFO]: [Heroes]  version 1.5.5.1-b20 is disabled!
-[15:52:05] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.20.4
-[15:52:05] [Server thread/INFO]: [Vault][Permission] PermissionsEx un-hooked.
-[15:52:05] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat un-hooked.
-[15:52:05] [Server thread/INFO]: Permissions file successfully reloaded
-[15:52:05] [Server thread/INFO]: [Vault] Disabling Vault v1.2.31-b411
-[15:52:05] [Server thread/INFO]: Saving players
-[15:52:05] [Server thread/INFO]: Saving worlds
-[15:52:05] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[15:52:06] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
-[15:52:06] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
-[15:52:06] [Thread-4/INFO]: Stopping server
-[15:52:06] [Thread-4/INFO]: Saving players
+[13:36:11] [Server thread/INFO]: Starting minecraft server version 1.7.2
+[13:36:11] [Server thread/INFO]: Loading properties
+[13:36:11] [Server thread/INFO]: Default game type: SURVIVAL
+[13:36:11] [Server thread/INFO]: Generating keypair
+[13:36:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:36:12] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.2-R0.2-b2974jnks (MC: 1.7.2) (Implementing API version 1.7.2-R0.2)
+[13:36:12] [Server thread/INFO]: [PermissionsEx] sql backend registered!
+[13:36:12] [Server thread/INFO]: [PermissionsEx] file backend registered!
+[13:36:12] [Server thread/INFO]: [SkylandsPlus] Loading SkylandsPlus v0.16-SNAPSHOT
+[13:36:12] [Server thread/INFO]: [Vault] Loading Vault v1.2.31-b411
+[13:36:12] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.20.4
+[13:36:12] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[13:36:12] [Server thread/INFO]: Permissions file successfully reloaded
+[13:36:12] [Server thread/INFO]: [Heroes] Loading Heroes v1.5.5.1-b20
+[13:36:12] [Server thread/INFO]: [AntiCreeper3] Loading AntiCreeper3 v4.15
+[13:36:12] [Server thread/INFO]: [CustomTheDeath] Loading CustomTheDeath v2.0
+[13:36:12] [Server thread/INFO]: [SkylandsPlus] Enabling SkylandsPlus v0.16-SNAPSHOT
+[13:36:12] [Server thread/INFO]: [Vault] Enabling Vault v1.2.31-b411
+[13:36:12] [Server thread/INFO]: [Vault] [Vault][Permission] PermissionsEx found: Waiting
+[13:36:12] [Server thread/INFO]: [Vault] [Vault][Permission] SuperPermissions loaded as backup permission system.
+[13:36:12] [Server thread/INFO]: [Vault] [Vault][Chat] PermissionsEx found: Waiting
+[13:36:12] [Server thread/INFO]: [Vault] [Vault] Enabled Version 1.2.31-b411
+[13:36:12] [Server thread/INFO]: Preparing level "world"
+[13:36:12] [Server thread/INFO]: Preparing start region for level 0 (Seed: 5540571787400857384)
+[13:36:13] [Thread-7/INFO]: ----- Bukkit Auto Updater -----
+[13:36:13] [Thread-7/INFO]: It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+[13:36:13] [Thread-7/INFO]: If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+[13:36:13] [Thread-7/INFO]: With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+[13:36:13] [Thread-7/INFO]: If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+[13:36:13] [Thread-7/INFO]: ----- ------------------- -----
+[13:36:13] [Server thread/INFO]: Preparing start region for level 1 (Seed: 5540571787400857384)
+[13:36:13] [Server thread/INFO]: Preparing start region for level 2 (Seed: 5540571787400857384)
+[13:36:14] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.20.4
+[13:36:14] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[13:36:14] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
+[13:36:14] [Server thread/INFO]: [Heroes] Enabling Heroes v1.5.5.1-b20
+[13:36:14] [Server thread/INFO]: [Heroes] You are running Heroes on MC v1.7.2
+[13:36:14] [Server thread/INFO]: [Heroes] The detected server mod is BUKKIT. Heroes will use BUKKIT compatibility!
+[13:36:14] [Server thread/INFO]: [Heroes] Minimum PvP Level is set to: 15
+[13:36:14] [Server thread/ERROR]: [Heroes] You are missing a default class! Heroes will now disable itself!
+[13:36:14] [Server thread/INFO]: [Heroes] Disabling Heroes v1.5.5.1-b20
+[13:36:14] [Server thread/INFO]: [Heroes]  version 1.5.5.1-b20 is disabled!
+[13:36:14] [Server thread/ERROR]: [Heroes] Critical error encountered while loading. Disabling Heroes!
+[13:36:14] [Server thread/INFO]: [AntiCreeper3] Enabling AntiCreeper3 v4.15
+[13:36:14] [Server thread/WARN]: [AntiCreeper3] Could not save lang-eng.yml to plugins\AntiCreeper3\languages\lang-eng.yml because lang-eng.yml already exists.
+[13:36:14] [Server thread/INFO]: [AntiCreeper3] brought to you by Filbert66
+[13:36:14] [Server thread/INFO]: [CustomTheDeath] Enabling CustomTheDeath v2.0
+[13:36:14] [Server thread/INFO]: *** CustomTheDeath v1.5 is now enabled ! ***
+[13:36:14] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:36:14] [Server thread/INFO]: Done (2.096s)! For help, type "help" or "?"
+[13:36:15] [pool-3-thread-3/INFO]: [Vault] Checking for Updates:
+[13:36:15] [pool-3-thread-3/INFO]: [Vault] No new version available
+[13:36:48] [Server thread/INFO]: CONSOLE: Stopping the server..[m
+[13:36:48] [Server thread/INFO]: Stopping server
+[13:36:48] [Server thread/INFO]: [CustomTheDeath] Disabling CustomTheDeath v2.0
+[13:36:48] [Server thread/INFO]: *** CustomTheDeath v1.5 is now disabled ! ***
+[13:36:48] [Server thread/INFO]: [AntiCreeper3] Disabling AntiCreeper3 v4.15
+[13:36:48] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.20.4
+[13:36:48] [Server thread/INFO]: [Vault][Permission] PermissionsEx un-hooked.
+[13:36:48] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat un-hooked.
+[13:36:48] [Server thread/INFO]: Permissions file successfully reloaded
+[13:36:48] [Server thread/INFO]: [Vault] Disabling Vault v1.2.31-b411
+[13:36:48] [Server thread/INFO]: [SkylandsPlus] Disabling SkylandsPlus v0.16-SNAPSHOT
+[13:36:48] [Server thread/INFO]: Saving players
+[13:36:48] [Server thread/INFO]: Saving worlds
+[13:36:48] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[13:36:49] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[13:36:49] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[13:36:49] [Thread-4/INFO]: Stopping server
+[13:36:49] [Thread-4/INFO]: Saving players
+[13:36:49] [Thread-4/INFO]: Saving worlds
